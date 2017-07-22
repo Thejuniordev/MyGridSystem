@@ -1,0 +1,17 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.col{
+	background: #ccc;
+	border-radius: 4px;
+	min-height: 30px;
+}
+.col-2{
+	background: #ddd;
+}
+.container{
+	max-width: 1260px;
+	padding: 0 10px;
+	margin: auto;
+}
